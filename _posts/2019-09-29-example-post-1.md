@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example content
+title: Example post #1
 ---
 
 Lorem ipsum dolor sit amet, eam paulo pertinax inciderint ei, ne sed laudem disputationi. Est id habemus volumus. Facilisis dissentiunt cu pri. Has at doming explicari, id choro propriae his. Utamur phaedrum ea qui, vim at praesent eloquentiam. Sea convenire vulputate eu, ius inani ponderum molestiae in.
